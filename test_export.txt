@@ -1,0 +1,26 @@
+# Name: Sundsvall västra
+# Directional edges: 115
+# M indicates Meta data
+# Vertex ID:Name
+M 0 Bultgatan 21
+M 1 Bultgatan 19
+M 2 Genväg 1
+M 3 Genväg 2
+M 4 Järnvägsövergång
+M 5 Genväg Åkanten
+M 6 Åkanten1
+# VertexID VertexID Length [Description]
+0 1 3.02 [Bultgatan]
+1 0 3.02 [Bultgatan]
+1 2 5.08 [Genväg Åktanten]
+2 1 5.08 [Genväg Åktanten]
+0 3 4.67 [Genväg Åkanten]
+3 0 4.67 [Genväg Åkanten]
+3 4 1.07 [Genväg Åkanten]
+4 3 1.07 [Genväg Åkanten]
+4 1 7.36 [Genväg Åkanten]
+1 4 7.36 [Genväg Åkanten]
+5 6 7.89 [Åkanten]
+6 5 7.89 [Åkanten]
+5 2 9.74 [Åkanten]
+2 5 9.74 [Åkanten]
